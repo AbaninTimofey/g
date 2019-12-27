@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EZ</string>
+    <string name="LogIn">Войти</string>
+    <string name="Registr">Зарегистрироваться</string>
+    <string name="PutName">Введите свое имя</string>
+    <string name="PutPassword">Введите пароль</string>
+    <string name="PutNewName">Придумайте имя</string>
+    <string name="PutNewPassword">Придумайте пароль</string>
+    <string name="GoBack">Назад</string>
+    <string name="Monday">Понедельник</string>
+    <string name="Sunday">Суббота</string>
+    <string name="Thusday">Вторник</string>
+    <string name="Wensday">Среда</string>
+    <string name="Friday">Пятница</string>
+    <string name="Chetverc">Четверг</string>
+</resources>
